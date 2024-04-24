@@ -1,3 +1,8 @@
+## iterative-chaos-squares
+<p align="center">
+  <img src="https://github.com/melgrove/sketches/assets/38347766/3e77cccb-22a4-41bf-881d-43b7befc65c8" width="70%">
+</p>
+
 ## iterative-dots-and-lines
 <p align="center">
   <img src="https://github.com/melgrove/sketches/assets/38347766/deaa7a82-158a-44d3-8d39-038c7d1c2779" width="50%">

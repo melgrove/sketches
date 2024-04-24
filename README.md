@@ -1,3 +1,8 @@
+## rosenbrock
+<p align="center">
+  <img src="https://github.com/melgrove/sketches/assets/38347766/ff6514f7-da62-4e24-9560-0543f77c4e09" width="100%">
+</p>
+
 ## iterative-chaos-squares
 <p align="center">
   <img src="https://github.com/melgrove/sketches/assets/38347766/3e77cccb-22a4-41bf-881d-43b7befc65c8" width="70%">

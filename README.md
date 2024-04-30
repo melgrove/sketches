@@ -1,5 +1,6 @@
 ## poisson-trees
 <p align="center">
+  <img src="https://github.com/melgrove/sketches/assets/38347766/c2fb4f80-bbde-4b11-87ad-50e7893f3692" width="70%">
   <img src="https://github.com/melgrove/sketches/assets/38347766/2efee759-e8da-4611-b4f1-48da21faab4c" width="70%">
   <img src="https://github.com/melgrove/sketches/assets/38347766/20e73346-1a5c-4f9d-b73e-11cce0e82882" width="70%">
 </p>

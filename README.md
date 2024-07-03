@@ -1,5 +1,6 @@
 ## radial-repeaters
 <p align="center">
+  <img src="https://github.com/melgrove/sketches/assets/38347766/987dce9f-443d-4a13-925e-fcbc29c4557d.gif" width="70%">
   <img src="https://github.com/melgrove/sketches/assets/38347766/e6340252-aeb7-4409-a8c1-58e9a8f47bba" width="70%">
 </p>
 

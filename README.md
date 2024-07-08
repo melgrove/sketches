@@ -2,6 +2,8 @@
 <p align="center">
   <img src="https://github.com/melgrove/sketches/assets/38347766/cffddad1-3f58-4579-9fbe-0443463f9e72.gif" width="70%">
 </p>
+<sup><code>commit: 7a1cac18c37ce606f7ed022f93ec4d99bb557fc7</code></sup>
+<sup><code>seed: 1597.419097984809</code></sup>
 
 ## radial-repeaters
 <p align="center">
